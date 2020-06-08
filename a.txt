@@ -1,0 +1,3 @@
+10 1 Produkt1 Czarny
+20 2 Produkt2 Biały
+100 3 53 Produkt3 Czarny Produkt3-1
